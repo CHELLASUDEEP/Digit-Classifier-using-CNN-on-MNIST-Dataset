@@ -1,0 +1,20 @@
+Modules required to execute the app.py and fine_tune.py codes are:
+1) os
+2) PIL
+3) numpy
+4) tensorflow
+5) keras
+6) sklearn
+7) pandas
+8) streamlit
+
+Modules required to run CNN_model.ipynb code are:
+1) numpy
+2) pandas
+3) matplotlib
+4) random
+5) os
+6) cv2
+7) tensorflow
+8) keras
+9) sklearn
